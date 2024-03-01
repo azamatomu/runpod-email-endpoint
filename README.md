@@ -57,7 +57,7 @@ The `CI-test_worker.yml` file will test the worker using the input provided by t
 ```json
 {
     "input": {
-        "name": "John Doe"
+        "name": "Give me an email-only content calendar for activating users that haven't used my service in more than 3 months. The service is an online marketplace for prospective home buyers to find houses and apartments in the Netherlands. Instructions: for each content idea provided, give me why this is something that makes sense for activating dormant users, and how to adjust the content strategy depending on whether it has been successful at activating the user after each month."
     }
 }
 ```
